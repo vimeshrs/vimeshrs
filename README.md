@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vimesh Samarathunga</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vimeshrs&label=Profile%20views&color=0e75b6&style=flat" alt="vimeshrs" /> </p>
-
 - 🔭 I’m currently learning **OOP with java**
 
 - 🎓 I’m an Undergraduate at **SLIIT**
